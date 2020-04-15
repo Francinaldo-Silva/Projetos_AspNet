@@ -1,0 +1,5 @@
+C:\Users\franc\source\repos\RepositoriosComum\bin\Debug\RepositoriosComum.dll
+C:\Users\franc\source\repos\RepositoriosComum\bin\Debug\RepositoriosComum.pdb
+C:\Users\franc\source\repos\RepositoriosComum\obj\Debug\RepositoriosComum.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\RepositoriosComum\obj\Debug\RepositoriosComum.dll
+C:\Users\franc\source\repos\RepositoriosComum\obj\Debug\RepositoriosComum.pdb
