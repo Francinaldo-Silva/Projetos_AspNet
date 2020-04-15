@@ -1,0 +1,5 @@
+C:\Users\franc\source\repos\Treinaweb.Musicas.Dominio\bin\Debug\Treinaweb.Musicas.Dominio.dll
+C:\Users\franc\source\repos\Treinaweb.Musicas.Dominio\bin\Debug\Treinaweb.Musicas.Dominio.pdb
+C:\Users\franc\source\repos\Treinaweb.Musicas.Dominio\obj\Debug\Treinaweb.Musicas.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\Treinaweb.Musicas.Dominio\obj\Debug\Treinaweb.Musicas.Dominio.dll
+C:\Users\franc\source\repos\Treinaweb.Musicas.Dominio\obj\Debug\Treinaweb.Musicas.Dominio.pdb
